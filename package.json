@@ -1,0 +1,26 @@
+{
+  "name": "autojsdoc",
+  "version": "1.0.0",
+  "description": "CLI tool for auto-generating JSDoc comments in JavaScript and TypeScript files",
+  "main": "bin/cli.js",
+  "bin": {
+    "autojsdoc": "bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "recast": "^0.20.0",
+    "@babel/parser": "^7.21.0",
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "license": "MIT"
+}
