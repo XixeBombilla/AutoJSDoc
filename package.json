@@ -10,6 +10,16 @@
   "scripts": {
     "start": "node bin/cli.js"
   },
+  "keywords": [
+    "jsdoc",
+    "documentation",
+    "javascript",
+    "typescript",
+    "cli",
+    "autojsdoc",
+    "code-comments",
+    "developer-tools"
+  ],
   "dependencies": {
     "commander": "^10.0.0",
     "recast": "^0.20.0",
