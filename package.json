@@ -1,6 +1,6 @@
 {
   "name": "autojsdoc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool for auto-generating JSDoc comments in JavaScript and TypeScript files",
   "author": "Gize Bonilla",
   "main": "bin/cli.js",
