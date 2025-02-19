@@ -2,6 +2,7 @@
   "name": "autojsdoc",
   "version": "1.0.0",
   "description": "CLI tool for auto-generating JSDoc comments in JavaScript and TypeScript files",
+  "author": "Gize Bonilla",
   "main": "bin/cli.js",
   "bin": {
     "autojsdoc": "bin/cli.js"

@@ -1,4 +1,4 @@
-# AutoJSDoc
+# AutoJSDoc [![NPM](https://nodei.co/npm/autojsdoc.png?mini=true)](https://www.npmjs.com/package/autojsdoc)
 
 AutoJSDoc is a CLI tool designed to automatically generate JSDoc comments for your JavaScript and TypeScript functions. It helps streamline the process of documenting code by adding function descriptions and types based on inferred parameter names and return types.
 
